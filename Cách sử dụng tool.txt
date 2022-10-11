@@ -1,0 +1,4 @@
+git clone https://github.com/SatoshiCoder/jaikeyv1/
+cd jaikeyv1
+python setup.py
+python jaikey-tool.py
