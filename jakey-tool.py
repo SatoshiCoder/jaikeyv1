@@ -12,12 +12,10 @@ print(Fore.LIGHTRED_EX+'''
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
                                           ''')
 while True:
-    print('Username:')
-    user=input()
+    user=input('Username:')
     if user != 'jaikeytricker-tool':
         continue
-    print('Password:')
-    passw=input()
+    passw=input('Password:')
     if passw == 'jk90':
         break
 
